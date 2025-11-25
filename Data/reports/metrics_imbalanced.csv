@@ -1,5 +1,0 @@
-track,model,accuracy,balanced_accuracy,precision,recall,f1,roc_auc
-imbalanced,AdaBoost,0.863,0.71,0.783,0.4521,0.5732,0.8552
-imbalanced,GradientBoosting,0.867,0.729,0.7681,0.4963,0.603,0.8694
-imbalanced,LightGBM,0.862,0.7213,0.749,0.484,0.5881,0.8584
-imbalanced,CatBoost,0.866,0.7247,0.7704,0.4865,0.5964,0.8576
