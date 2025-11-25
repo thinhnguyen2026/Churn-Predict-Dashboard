@@ -1,0 +1,5 @@
+track,model,cv_mean_balanced_accuracy,cv_std_balanced_accuracy
+smote,AdaBoost,0.7696,0.011
+smote,GradientBoosting,0.7742,0.0149
+smote,LightGBM,0.7542,0.0184
+smote,CatBoost,0.7682,0.0164

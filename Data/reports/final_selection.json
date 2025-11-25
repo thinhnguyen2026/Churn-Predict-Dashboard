@@ -1,0 +1,13 @@
+{
+  "final_track": "smote",
+  "final_model_name": "CatBoost",
+  "final_metrics": {
+    "accuracy": 0.85,
+    "balanced_accuracy": 0.776,
+    "precision": 0.6265,
+    "recall": 0.6511,
+    "f1": 0.6386,
+    "roc_auc": 0.8722
+  },
+  "source_model_path": "models\\best_smote.joblib"
+}
